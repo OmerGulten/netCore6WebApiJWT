@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Du6lhxqfhlmtD/aSYjGdGnvEJB06+2See8U65Pb9Gx4=",
+  "Source": "netCore6WebApiJWT",
+  "BasePath": "_content/netCore6WebApiJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
