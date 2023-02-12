@@ -10,7 +10,7 @@ namespace netCore6WebApiJWT.Controllers
         [HttpPost("TestJwtToken")]
         public IActionResult TestJwtToken()
         {
-            return Ok();
+            return Ok("Authentication is successful");
         }
     }
 }
