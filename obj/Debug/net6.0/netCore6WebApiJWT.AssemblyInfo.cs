@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("netCore6WebApiJWT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4761b9bc7a05f1e73c469d8e836411715f60dbd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("netCore6WebApiJWT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("netCore6WebApiJWT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
